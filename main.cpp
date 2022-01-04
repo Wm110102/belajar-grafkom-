@@ -154,7 +154,7 @@ void lighting(){
 
 // Badan Pesawat
 void badanP()
-{	glColor3f(0.5,0.5,0.5);
+{	glColor3f(1.0,0.0,0.0);
     glPushMatrix();
 	glTranslatef(-7.0f,12.0f,0.0f);
 	glRotated(90, 0, 1, 0);
